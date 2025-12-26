@@ -175,6 +175,7 @@ body::before {
 @media (max-width:360px) {
     .container{
         padding: 10px;
+        height: 600px;
     }
     .coming-soon{
         font-size: 40px;
